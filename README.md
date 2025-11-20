@@ -10,7 +10,7 @@
 - 📫 How to reach me **irfanayon89@gmail.com**
 
 
-<img src="https://github.com/user-attachments/assets/eb8e072a-f888-4943-9e49-6177132c2807" width="600">
+<img src="https://github.com/user-attachments/assets/eb8e072a-f888-4943-9e49-6177132c2807" width="400">
 
 
 
