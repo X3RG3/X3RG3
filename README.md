@@ -10,7 +10,8 @@
 - 📫 How to reach me **irfanayon89@gmail.com**
 
 
-![MvMxQ1a_gif (1281×716)](https://github.com/user-attachments/assets/b730a9f5-7575-4e06-a366-ce0f95ee27f3)
+![413009a347b0cc3c7897ab5de892d78e](https://github.com/user-attachments/assets/eb8e072a-f888-4943-9e49-6177132c2807)
+
 
 
 
