@@ -2,9 +2,6 @@
 
 ### A Programmer From Bangladesh 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=X3RGE&label=Profile views&color=0e75b6&style=flat" alt="X3RGE" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=X3RGE" alt="X3RGE" /></a> </p>
 
 - 🌱 I'm currently learning **Java**
 
