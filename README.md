@@ -5,7 +5,14 @@
 
 - 🌱 I'm currently learning **Java**
 
+-🎓 Studying at American International University-Bangladesh
+
 - 📫 How to reach me **irfanayon89@gmail.com**
+
+
+![MvMxQ1a_gif (1281×716)](https://github.com/user-attachments/assets/b730a9f5-7575-4e06-a366-ce0f95ee27f3)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
