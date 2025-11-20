@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/X3RGE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="X3RGE" height="30" width="40" /></a>
+<a href="https://github.com/X3RG3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="X3RGE" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/x3rge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammad Irfan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/x3rge.nub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohammad Irfan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/X3RGE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="X3RGE" height="30" width="40" /></a>
