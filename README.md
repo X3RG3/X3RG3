@@ -5,12 +5,13 @@
 
 - 🌱 I'm currently learning **Java**
 
--🎓 Studying at American International University-Bangladesh
+- 🎓 Studying at American International University-Bangladesh
 
 - 📫 How to reach me **irfanayon89@gmail.com**
 
 
-![413009a347b0cc3c7897ab5de892d78e](https://github.com/user-attachments/assets/eb8e072a-f888-4943-9e49-6177132c2807)
+<img src="https://github.com/user-attachments/assets/eb8e072a-f888-4943-9e49-6177132c2807" width="600">
+
 
 
 
