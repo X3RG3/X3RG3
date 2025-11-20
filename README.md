@@ -10,9 +10,7 @@
 - 📫 How to reach me **irfanayon89@gmail.com**
 
 
-<img src="https://github.com/user-attachments/assets/eb8e072a-f888-4943-9e49-6177132c2807" width="400">
-
-
+<img src="https://github.com/user-attachments/assets/3bbe30ba-a41a-4ea9-9589-8cd1068d9a72" width="70" height="70">
 
 
 
@@ -27,4 +25,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=X3RGE&" alt="X3RGE" /></p>
+<img src="https://github.com/user-attachments/assets/eb8e072a-f888-4943-9e49-6177132c2807" width="400">
