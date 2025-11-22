@@ -9,6 +9,13 @@
 
 - 📫 How to reach me **irfanayon89@gmail.com**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=X3RG3&label=Views&color=89c2ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/X3RG3?label=Followers&style=for-the-badge&color=89c2ff" />
+</p>
+
+
+
 
 <img src="https://github.com/user-attachments/assets/3bbe30ba-a41a-4ea9-9589-8cd1068d9a72" width="70" height="70"><img src="https://github.com/user-attachments/assets/fabee4e2-a4d0-4aa3-b091-6c2927fd34a5" width="80" height="80"><img src="https://github.com/user-attachments/assets/0e0c8f8f-94b6-4c13-b67a-8bf78f636c86" width="100" height="100"><img src="https://github.com/user-attachments/assets/fd0361fc-6b2b-4826-a3ea-a12de87a8cae" width="100" height="100">
 
