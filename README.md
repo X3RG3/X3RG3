@@ -3,7 +3,7 @@
 ### A Programmer From Bangladesh 
 
 
-- 🌱 I'm currently learning **Java**
+- 🌱 I'm currently learning **DSA**
 
 - 🎓 Studying at American International University-Bangladesh
 
