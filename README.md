@@ -1,39 +1,90 @@
-# Hi 👋, I'm Mohammad Irfan
+<!-- Header -->
+<div align="center">
 
-### A Programmer From Bangladesh 
-
-
-- 🌱 I'm currently learning **DSA**
-
-- 🎓 Studying at American International University-Bangladesh
-
-- 📫 How to reach me **irfanayon89@gmail.com**
+<!-- Typing SVG animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=60&lines=Hi+there%2C+I'm+Irfan+%F0%9F%91%8B;I'm+a+CSE+student+%F0%9F%92%BB;I+love+problem+solving+%E2%9A%94%EF%B8%8F;Welcome+to+my+profile+%E2%9C%A8)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=X3RG3&label=Views&color=89c2ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/X3RG3?label=Followers&style=for-the-badge&color=89c2ff" />
+  <em>CSE student @ AIUB &nbsp;·&nbsp; newbie programmer &nbsp;·&nbsp; problem solver</em>
 </p>
 
+</div>
 
+---
 
+### 👤 About me
 
+A passionate **CSE student** from **AIUB**, Bangladesh, diving deep into the world of algorithms and code.
+Currently on a journey through **Data Structures & Algorithms** and the competitive programming arena — one problem at a time.
 
+🎮 Gaming &nbsp;|&nbsp; 💻 Coding &nbsp;|&nbsp; 🎵 Music &nbsp;|&nbsp; ✈️ Traveling
 
+---
 
+### 🔭 Currently
 
-<h3 align="left">Connect with me:</h3>
+- 🧠 &nbsp;Learning **Data Structures & Algorithms**
+- ⚔️ &nbsp;Practicing on **Codeforces** as **X3RGE**
+- 📚 &nbsp;Exploring **C / C++** deeply
+- 🌱 &nbsp;Building a competitive programming habit
+
+---
+
+### 🛠️ Skills & Tools
+
 <p align="left">
-<a href="https://github.com/X3RG3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="X3RGE" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/x3rge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammad Irfan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/x3rge.nub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohammad Irfan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/X3RGE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="X3RGE" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,git,arduino,ps" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a></p>
+---
 
-<p align="center">
-  <a href="https://codeforces.com/profile/X3RGE">
-    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=X3RGE&theme=dark" />
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://github.com/X3RG3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-X3RGE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/x3rge" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammad_Irfan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/x3rge.nub" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-x3rge.nub-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/X3RGE" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-X3RGE-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
+
+---
+
+### ⚔️ Codeforces Stats
+
+<p align="left">
+  <a href="https://codeforces.com/profile/X3RGE" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=X3RGE&theme=dark&force_username=true&border_color=21262d" />
+  </a>
+</p>
+
+<!-- Problems solved badge -->
+<p align="left">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Problems%20Solved&query=%24.result.length&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.status%3Fhandle%3DX3RGE&style=for-the-badge&color=58a6ff&logo=codeforces&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=X3RG3&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3RG3&layout=compact&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=X3RG3&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p>
+
+---
+
+<div align="center">
+  <em>readme crafted with precision &nbsp;·&nbsp; X3RGE @ AIUB</em>
+</div>
