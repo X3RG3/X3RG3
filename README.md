@@ -85,6 +85,4 @@ Currently on a journey through **Data Structures & Algorithms** and the competit
 
 ---
 
-<div align="center">
-  <em>readme crafted with precision &nbsp;·&nbsp; X3RGE @ AIUB</em>
-</div>
+
