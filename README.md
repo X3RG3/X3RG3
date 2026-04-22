@@ -40,10 +40,7 @@ Currently on a journey through **Data Structures & Algorithms** and the competit
 
 ### 🤝 Connect with me
 
-<p align="left">
-  <a href="https://github.com/X3RG3" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-X3RGE-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
   <a href="https://www.linkedin.com/in/x3rge" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mohammad_Irfan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
