@@ -1,16 +1,5 @@
 <!-- Header -->
-<div align="center">
 
-<!-- Typing SVG animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=60&lines=Hi+there%2C+I'm+Irfan+%F0%9F%91%8B;I'm+a+CSE+student+%F0%9F%92%BB;I+love+problem+solving+%E2%9A%94%EF%B8%8F;Welcome+to+my+profile+%E2%9C%A8)](https://git.io/typing-svg)
-
-<p align="center">
-  <em>CSE student @ AIUB &nbsp;·&nbsp; newbie programmer &nbsp;·&nbsp; problem solver</em>
-</p>
-
-</div>
-
----
 
 ### 👤 About me
 
